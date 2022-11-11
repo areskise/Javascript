@@ -85,16 +85,16 @@ const app = {
       image: "./assets/img/image10.jpg"
     },
     {
-      name: "Mặt Mộc",
-      singer: "Phạm Nguyên Ngọc, VAnh, Ân Nhi",
-      path: "./assets/music/song10.mp3",
-      image: "./assets/img/image10.jpg"
+      name: "Lời Tạm Biệt Chưa Nói",
+      singer: "GREY D, Orange",
+      path: "./assets/music/song11.mp3",
+      image: "./assets/img/image11.jpg"
     },
     {
-      name: "Mặt Mộc",
-      singer: "Phạm Nguyên Ngọc, VAnh, Ân Nhi",
-      path: "./assets/music/song10.mp3",
-      image: "./assets/img/image10.jpg"
+      name: "Yêu Đương Khó Quá Thì Chạy Về Khóc Với Anh",
+      singer: "ERIK",
+      path: "./assets/music/song12.mp3",
+      image: "./assets/img/image12.jpg"
     },
   ],
 
